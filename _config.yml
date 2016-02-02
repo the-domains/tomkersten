@@ -1,0 +1,28 @@
+name: tomkersten
+favicon: null
+layout_spectrum: 0.5134314903989434
+typography_spectrum: 0.9108643038198352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.25419930182397366
+  lightness: 0.1805312957148999
+  saturation: 0.835887114983052
+  rhythmicContrast: 0.0209706153254956
+purpose: []
