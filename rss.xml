@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[tomkersten]]></title>
         <description><![CDATA[tomkersten]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tomkersten/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 14:12:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 16:04:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tomkersten/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chorizo + Eggs]]></title>
+            <description><![CDATA[<article><h1>Chorizo + Eggs</h1><p>Made some eggs with the fresh chorizo from last weekend.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7238d4ec-391c-4745-ab2f-06587432e6a7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tomkersten/de6d37ed-732b-4b15-9c7a-2c4386352907/index.html</link>
+            <guid isPermaLink="false">de6d37ed-732b-4b15-9c7a-2c4386352907</guid>
+            <pubDate>Sat, 13 Feb 2016 16:03:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sample heading</p>]]></description>
-            <link>undefined4cc668a6-fd70-46b9-905f-99fdc7303a9b/index.html</link>
+            <link>https://thegrid.ai/tomkersten/4cc668a6-fd70-46b9-905f-99fdc7303a9b/index.html</link>
             <guid isPermaLink="false">4cc668a6-fd70-46b9-905f-99fdc7303a9b</guid>
             <pubDate>Tue, 02 Feb 2016 14:11:24 GMT</pubDate>
         </item>
